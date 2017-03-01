@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[Studying at home] - ...\src\OOP_HW_1\B_second.java'" />
-    <option name="defaultScopeName" value="File '[Studying at home] - ...\src\OOP_HW_1\B_second.java'" />
-    <option name="SEARCH_SCOPE" value="File '[Studying at home] - ...\src\OOP_HW_1\B_second.java'" />
+    <option name="customScope" value="Project 'alex'" />
+    <option name="defaultScopeName" value="Project 'alex'" />
+    <option name="SEARCH_SCOPE" value="Project 'alex'" />
   </component>
 </application>
